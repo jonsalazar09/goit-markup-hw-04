@@ -1,4 +1,4 @@
-/* GENERAL OR GLOBAL SELECTORS */
+/* Global Selectors */
 body {
     color: #434455;
     font-family: Roboto, sans-serif;
@@ -44,7 +44,7 @@ body {
     cursor: pointer;
   }
   
-  /* WEBSITE HEADER SECTION */
+  /* Website header section */
   header {
     width: 1440px;
     height: 72px;
@@ -113,7 +113,7 @@ body {
     color: #434455;
   }
   
-  /* WEBSITE FOOTER SECTION */
+  /* Website Footer */
   footer {
     background: var(--NAVY-BLUE, #2e2f42);
     color: var(--CLOUD, #f4f4fd);
@@ -208,17 +208,17 @@ body {
     gap: 8px;
   }
   
-  .wawd-corevalues ul {
+  .wawd-core ul {
     display: inline-flex;
     justify-content: center;
   }
   
-  .wawd-corevalues h3 {
+  .wawd-core h3 {
     margin: 0px 24px 8px 0px;
     padding-top: 120px;
   }
   
-  .wawd-corevalues p {
+  .wawd-core p {
     justify-content: center;
     align-items: flex-start;
     width: 264px;
