@@ -353,3 +353,149 @@ body {
     padding-left: 16px;
     padding-bottom: 32px;
   }
+  /* Test Icon*/
+  .customers-header {
+    padding: 120px 628px 72px 629px;
+  }
+  
+  .portfolio-images li:hover {
+    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08);
+    box-shadow: 0px 1px 1px 0px rgba(46, 47, 66, 0.16);
+    box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+    border: 1px solid rgba(244, 244, 253, 1);
+    cursor: pointer;
+  }
+  
+  .advantages-icon {
+    background-color: rgba(244, 244, 253, 1);
+    width: 264px;
+    height: 112px;
+    padding: 24px 100px;
+    display: inline-block;
+  }
+  
+  .ot-social-icons {
+    padding: 12px;
+    width: 40px;
+    height: 40px;
+    stroke: rgba(244, 244, 253, 1);
+    fill: rgba(244, 244, 253, 1);
+    box-shadow: none;
+    align-items: center;
+  }
+  
+  ul .our-team-icons {
+    padding-top: 8px;
+    padding-bottom: 24px;
+    border: 0px;
+  }
+  
+  .our-team-icons li {
+    background-color: rgba(77, 90, 229, 1);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  
+  .our-team :last-child {
+    margin-right: 0px;
+  }
+  
+  .clients-icon {
+    background-color: inherit;
+    display: inline-flex;
+    width: 168px;
+    height: 88px;
+    padding: 16px 32px;
+    justify-content: center;
+    margin-right: 24px;
+    fill: rgba(142, 143, 153, 1);
+    border: 1px solid rgba(142, 143, 153, 1);
+    border-radius: 4px;
+  }
+  
+  .customers-icon {
+    padding-left: 156px;
+    padding-bottom: 120px;
+  }
+  
+  .customers-icon li {
+    display: inline-flex;
+    justify-content: center;
+    align-content: center;
+  }
+  
+  /* footer icons */
+  .footer-social-icons {
+    padding: 10px;
+    width: 40px;
+    height: 40px;
+    stroke: rgba(244, 244, 253, 1);
+    fill: rgba(244, 244, 253, 1);
+    box-shadow: none;
+    align-items: center;
+    margin: 0px;
+  }
+  
+  .footer-icons {
+    display: inline-flex;
+    padding-top: 16px;
+    padding-left: 120px;
+    border: 0px;
+    margin: 0px;
+  }
+  
+  .footer-icons li {
+    background-color: rgba(77, 90, 229, 1);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-flex;
+    margin-right: 12px;
+  }
+  
+  .footer-socials {
+    color: rgba(255, 255, 255, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    padding-left: 269px;
+  }
+  
+  .footer-line1 {
+    display: inline-flex;
+    padding-top: 101.5px;
+    margin: 0px;
+  }
+  
+  .footer-line2 {
+    display: flex;
+    margin: 0px;
+  }
+  
+  .footer-text {
+    padding-top: 17.5px;
+    width: 264px;
+    margin: 0px;
+  }
+  
+  .footer-icons li:hover,
+  .footer-icons li:focus {
+    background-color: rgba(49, 208, 170, 1);
+  }
+  
+  .our-team-icons li:hover,
+  .footer-icons li:focus {
+    background-color: rgba(64, 75, 191, 1);
+  }
+  
+  .clients-icon:hover,
+  .clients-icon:focus {
+    cursor: pointer;
+    border-color: rgba(64, 75, 191, 1);
+    fill: rgba(64, 75, 191, 1);
+    transition-duration: 250ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  }
