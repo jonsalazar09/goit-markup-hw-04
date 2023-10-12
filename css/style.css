@@ -496,3 +496,15 @@ ul .our-team-icons {
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
+.hero {
+  height: 600px;
+  background-image: url(https://logarithms17.github.io/goit-markup-hw-06/css/people-office.png);
+  background-repeat: no-repeat; 
+  text-align: center;
+  margin-bottom: 120px;
+}
+
+.background-image {
+  background-color: rgba(46, 47, 66, 0.7);
+  height: inherit;
+}
