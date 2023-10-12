@@ -151,7 +151,7 @@ footer a {
   background: rgba(46, 47, 66, 0.7);
   height: 600px;
   margin: 0;
-  background-image: url("../images/splash-header-bg.jpg");
+  background-image: url("../Image/hero\ image\ \(1\)\ \(1\).jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -495,16 +495,4 @@ ul .our-team-icons {
   fill: rgba(64, 75, 191, 1);
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-}
-.hero {
-  height: 600px;
-  background-image: url(https://github.com/jonsalazar09/goit-markup-hw-04/blob/main/Image/hero%20image%20(1)%20(1).jpg);
-  background-repeat: no-repeat; 
-  text-align: center;
-  margin-bottom: 120px;
-}
-
-.background-image {
-  background-color: rgba(46, 47, 66, 0.7);
-  height: inherit;
 }
